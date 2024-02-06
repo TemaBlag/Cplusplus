@@ -1,0 +1,13 @@
+TEST(NumberOfOnesBinaryNotation, RightTests)
+    int TestData;
+    TestData = 1;
+    TestData = 0;
+    TestData = 5;
+    TestData = 3;
+    TestData = 8;;
+    TestData = 11;
+    TestData = 7;
+    TestData = 2;
+    TestData = 4;
+    TestData = 6;
+
